@@ -1,0 +1,28 @@
+.conteudo-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteudo-box1 {
+    align-items: center;
+}
+
+.conteudo-box1 h1 {
+    max-width: 650px;
+    margin-bottom: 20px;
+}
+.conteudo-box1 h4 {
+    max-width: 488px;
+    margin-bottom: 56px;
+}
+
+.conteudo-box1 a {
+    padding: 20px 40px;
+    background-color: var(--rosa-pink);
+}
+
+.conteudo-box2 img {
+    margin-top: 46px;
+    width: 488px;
+}
