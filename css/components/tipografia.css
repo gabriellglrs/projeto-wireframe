@@ -1,0 +1,67 @@
+.font48 {
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+    font-size: 4.8rem;
+    line-height: 125%;
+    letter-spacing: -1px;
+    color: var(--preto-maximo);
+}
+
+.font32 {
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+    font-size: 3.2rem;
+    line-height: 125%;
+    letter-spacing: -1px;
+    color: var(--branco);
+}
+
+.font24 {
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+    font-size: 2.4rem;
+    line-height: 125%;
+    letter-spacing: -1px;
+    color: var(--branco);
+}
+
+.font18 {
+    font-family: "inter", sans-serif;
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 150%;
+    color: var(--cinza-escuro);
+}
+
+.font16 {
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 100%;
+    letter-spacing: -0.01em;
+    color: var(--preto-maximo);
+}
+
+.font15 {
+    font-family: "Sora", sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 105%;
+    letter-spacing: -0.01em;
+    color: var(--cinza-claro);
+}
+
+.font14 {
+    font-family: "Sora", sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 105%;
+    color: var(--branco);
+}
+
+@media (max-width: 480px) {
+    html {
+        font-size: 45%;
+    }
+}
