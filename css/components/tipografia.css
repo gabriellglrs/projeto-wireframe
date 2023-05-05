@@ -60,8 +60,33 @@
     color: var(--branco);
 }
 
+@media (max-width: 991px) {
+    html {
+        font-size: 58%;
+    }
+}
+
+@media (max-width: 750px) {
+    html {
+        font-size: 54%;
+    }
+}
+
+@media (max-width: 550px) {
+    html {
+        font-size: 50%;
+    }
+}
+
+
 @media (max-width: 480px) {
     html {
         font-size: 45%;
+    }
+}
+
+@media (max-width: 350px) {
+    html {
+        font-size: 41%;
     }
 }
