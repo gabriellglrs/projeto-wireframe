@@ -1,0 +1,32 @@
+.lista-bg {
+    background-color: var(--preto-light);
+    height: 500px;
+}
+
+.lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;
+}
+
+.lista h2 {
+    margin-bottom: 20px;
+}
+
+.lista h4 {
+    margin-bottom: 40px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+    max-width: 650px;
+    text-align: center;
+}
+
+.lista a {
+    padding: 20px 40px;
+    background-color: var(--rosa-pink);
+}
